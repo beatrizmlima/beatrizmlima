@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas
 - 🎓 Sou formada no Técnico de Desenvolvimento de Sistemas
-- 😄 Curto muito product design e desenvolvimento mobile, mas estou testando e estudando todas as áreas
+- 😄 Curto muito product design e desenvolvimento mobile, mas estou me aventurando em todas as áreas
 - ⚡ Fun fact: Já construi e programei um robô mais pesado e maior que eu 
 
 ![Beatriz Morais's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizmlima&show_icons=true&theme=omni)
